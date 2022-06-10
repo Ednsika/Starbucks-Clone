@@ -1,2 +1,2 @@
 # Starbucks-Clone
-This project is a clone of the Starbucks homepage as of June 2022. 
+This project is a clone of the Starbucks homepage as at June 2022. 
